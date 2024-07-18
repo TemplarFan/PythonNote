@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: demo
+Version: 0.1
+Summary: demo
+Home-page: http://lxxxxx
+Author: NEU
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language:: Python ::3
+Classifier: License :: OSI Approved ::MIT License
+Classifier: Operation System ::OS Independent
+Description-Content-Type: text/markdown
+
+# Demo package
+
+this is for example.
+
+
+dxxxxx
+

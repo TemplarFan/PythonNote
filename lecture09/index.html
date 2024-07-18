@@ -1,0 +1,29 @@
+<html>
+    <head>
+       <title>Demo of Python</title>
+       <style>
+        h1{
+            color:#ff0000;
+            font-size: 50px;
+        }
+       </style>
+       <script>
+           function changecolor(){
+            console.log("clicked.")
+             document.getElementsByTagName("h1")[0].style.color = "#00ff00";
+           }
+        </script>
+    </head>
+    <body>
+        <h1 onclick="changecolor();">Hello NEU, 100 ann.</h1>
+
+        <h1>Liwei</h1>
+
+        <form method="post" action="/cgi-bin/demo.py">
+            <input name="name"/>
+            <button type="submit">submit</button>
+        </form>
+        
+        
+    </body>
+</html>

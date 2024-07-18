@@ -1,0 +1,457 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta content="东北大学是教育部直属的国家重点大学，坐落在东北中心城市沈阳，是国家首批“211工程”和“985工程”重点建设的学校，并实现教育部、辽宁省、沈阳市重点共建。东北大学始建于1923年4月，是一所具有爱国主义光荣传统的大学。面向未来，东北大学将抓住机遇，办出特色，为建成“在中国新型工业化进程中起引领作用的“国内一流、国际知名”高水平研究型大学”而奋斗。" name="description" />
+<meta content="东北大学、东大、NEU、Northeastern University、东北大学新闻网、东大招生网、东大电视台、白山黑水BBS、东大校友网、东大图书馆、东北大学研究生院、东大网络中心、东软集团、CERNET东北地区网络中心" name="keywords" />
+<title>东北大学简介</title>
+    <meta name="description" content="                东北大学简介                            " />
+
+<link type="text/css" href="/_css/_system/system.css" rel="stylesheet"/>
+<link type="text/css" href="/_upload/site/1/style/1/1.css" rel="stylesheet"/>
+<link type="text/css" href="/_upload/site/00/04/4/style/3/3.css" rel="stylesheet"/>
+       <LINK href="/_css/tpl2/system.css" type="text/css" rel="stylesheet"> 
+<link type="text/css" href="/_js/_portletPlugs/sudyNavi/css/sudyNav.css" rel="stylesheet" />
+<link type="text/css" href="/_js/_portletPlugs/simpleNews/css/simplenews.css" rel="stylesheet" />
+       <LINK href="/_css/tpl2/default/default.css" type="text/css" rel="stylesheet"> 
+
+<script language="javascript" src="/_js/jquery.min.js" sudy-wp-context="" sudy-wp-siteId="4"></script>
+<script language="javascript" src="/_js/jquery.sudy.wp.visitcount.js"></script>
+<script type="text/javascript" src="/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js"></script>
+<link rel="shortcut icon" type="image/x-icon" href="/_upload/tpl/00/03/3/template3/htmlRes/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="/_upload/tpl/00/03/3/template3/htmlRes/base.css" />
+<link rel="stylesheet" type="text/css" href="/_upload/tpl/00/03/3/template3/htmlRes/common.css">
+<link rel="stylesheet" type="text/css" href="/_upload/tpl/00/03/3/template3/htmlRes/inner.css" />
+    
+<!--[if lte IE 8]>
+      <script>
+         (function() {
+           if (!
+           /*@cc_on!@*/
+           0) return;
+           var e = "abbr, article, aside, audio, canvas, datalist, details, dialog, eventsource, figure, footer, header, hgroup, mark, menu, meter, nav, output, progress, section, time, video".split(', ');
+           var i= e.length;
+           while ( i ){
+               document.createElement(e[i]);
+               i = i-1;
+           }
+      })()
+      </script>
+    <![endif]-->
+</head>
+<body>
+<div id="subIndex">
+  <div id="navigator"> <div class="fhsy">
+  <a href="http://www.neu.edu.cn/main.htm"></a></div>
+      <nav class="menu">
+      <div frag="窗口2" portletmode="simpleSudyNavi">
+      
+          
+          <ul id="nav">
+              
+              <li> <a href="http://www.neu.edu.cn/2019/0125/c14a1/page.htm" class="">东大简介</a>
+                  
+                  <ul style="display: none;">
+                      
+                      <li> <a href="http://www.neu.edu.cn/2019/0125/c14a1/page.htm" class="">东大简介</a> </li>
+                      
+                      <li> <a href="http://www.neu.edu.cn/2019/0126/c15a2/page.htm" class="">张学良老校长</a> </li>
+                      
+                      <li> <a href="/3609/list.htm" class="">现任领导</a> </li>
+                      
+                      <li> <a href="/3610/list.htm" class="">院士风采</a> </li>
+                      
+                      <li> <a href="http://www.neu.edu.cn/constitution/" class="">东北大学章程</a> </li>
+                      
+                      <li> <a href="http://www.neu.edu.cn/2019/0126/c19a19/page.htm" class="">校园导游</a> </li>
+                      
+                      <li> <a href="http://www.neu.edu.cn/2019/0126/c20a20/page.htm" class="">校标校名校训校风校歌</a> </li>
+                      
+                      <li> <a href="http://neunews.neu.edu.cn/212/list.htm" class="">东大风景</a> </li>
+                      
+                  </ul>
+                  
+              </li>
+              
+              <li> <a href="/3591/list.htm" class="">机构设置</a>
+                  
+                  <ul style="display: none;">
+                      
+                      <li> <a href="http://www.neu.edu.cn/3591/list.htm#collegeNav" class="">院系设置</a> </li>
+                      
+                      <li> <a href="http://www.neu.edu.cn/3591/list.htm#controlDepart" class="">管理部门</a> </li>
+                      
+                      <li> <a href="http://www.neu.edu.cn/3591/list.htm#straightDepart" class="">直属部门</a> </li>
+                      
+                      <li> <a href="http://www.neu.edu.cn/3591/list.htm#industry" class="">产业</a> </li>
+                      
+                      <li> <a href="/3619/list.htm" class="">研究机构</a> </li>
+                      
+                      <li> <a href="/ydyjjg/list.htm" class="">异地科研机构</a> </li>
+                      
+                  </ul>
+                  
+              </li>
+              
+              <li> <a href="/3592/list.htm" class="">教学科研</a>
+                  
+                  <ul style="display: none;">
+                      
+                      <li> <a href="http://aao.neu.edu.cn" class="">教务管理</a> </li>
+                      
+                      <li> <a href="http://aao.neu.edu.cn/gjjylbkkc/list.htm" class="">精品课程</a> </li>
+                      
+                      <li> <a href="http://aao.neu.edu.cn/2311/list.htm" class="">教学研究</a> </li>
+                      
+                      <li> <a href="http://cxzx.neu.edu.cn/" class="">创新基础</a> </li>
+                      
+                      <li> <a href="/3625/list.htm" class="">国家重点实验室</a> </li>
+                      
+                      <li> <a href="/3626/list.htm" class="">本科教学质量报告</a> </li>
+                      
+                      <li> <a href="http://aao.neu.edu.cn/2337/list.htm" class="">教学成果奖</a> </li>
+                      
+                  </ul>
+                  
+              </li>
+              
+              <li> <a href="/3593/list.htm" class="">师资队伍</a>
+                  
+                  <ul style="display: none;">
+                      
+                      <li> <a href="/3628/list.htm" class="">师资介绍</a> </li>
+                      
+                      <li> <a href="http://rcb.neu.edu.cn" class="">人才招聘</a> </li>
+                      
+                  </ul>
+                  
+              </li>
+              
+              <li> <a href="#" class="">国际合作</a>
+                  
+                  <ul style="display: none;">
+                      
+                      <li> <a href="http://int.neu.edu.cn/" class="">交流合作</a> </li>
+                      
+                      <li> <a href="http://www.sie.neu.edu.cn/ieenglish" class="">来华留学</a> </li>
+                      
+                      <li> <a href="http://int.neu.edu.cn/cn/html/n_20134221042182426.asp" class="">双百计划</a> </li>
+                      
+                      <li> <a href="http://int.neu.edu.cn/cn/pages/Agreement_schools.asp" class="">协议院校</a> </li>
+                      
+                  </ul>
+                  
+              </li>
+              
+              <li> <a href="http://www.neu.edu.cn/wzdt/list.htm#direct" class="">快速链接</a>
+                  
+                  <ul style="display: none;">
+                      
+                      <li> <a href="http://alumni.neu.edu.cn/" class="">校友总会</a> </li>
+                      
+                      <li> <a href="http://xdh.neu.edu.cn/" class="">校董会</a> </li>
+                      
+                      <li> <a href="http://chlef.neu.edu.cn/" class="">张学良教育基金会</a> </li>
+                      
+                      <li> <a href="http://www.lib.neu.edu.cn/" class="">图书馆</a> </li>
+                      
+                      <li> <a href="http://neunews.neu.edu.cn/" class="">东大新闻网</a> </li>
+                      
+                      <li> <a href="http://pioneer.neu.edu.cn/" class="">先锋网</a> </li>
+                      
+                      <li> <a href="http://zs.neu.edu.cn/" class="">本科招生信息网</a> </li>
+                      
+                      <li> <a href="http://yz.neu.edu.cn/" class="">研究生招生信息网</a> </li>
+                      
+                      <li> <a href="http://kcsz.neu.edu.cn" class="">东北大学课程思政资源平台</a> </li>
+                      
+                      <li> <a href="http://job.neu.edu.cn/" class="">就业信息网</a> </li>
+                      
+                      <li> <a href="http://cxzx.neu.edu.cn/" class="">东大创新网</a> </li>
+                      
+                      <li> <a href="http://psy.neu.edu.cn/" class="">心理健康港湾</a> </li>
+                      
+                      <li> <a href="http://qzzx.neu.edu.cn/HomePage.aspx" class="">勤助在线网</a> </li>
+                      
+                      <li> <a href="http://cyjt.neu.edu.cn" class="">科技产业集团</a> </li>
+                      
+                      <li> <a href="https://www.neusoft.com/" class="">东软集团</a> </li>
+                      
+                      <li> <a href="http://www.neusoft.edu.cn/" class="">东软信息学院</a> </li>
+                      
+                      <li> <a href="http://xwb.neu.edu.cn/" class="">校园网服务</a> </li>
+                      
+                      <li> <a href="http://www.synet.edu.cn/" class="">CERNET东北地区网络中心</a> </li>
+                      
+                      <li> <a href="http://www.bntu.by/" class="">白俄罗斯国立技术大学</a> </li>
+                      
+                      <li> <a href="http://www.yncn.gov.cn/" class="">昌宁政府网</a> </li>
+                      
+                      <li> <a href="https://mall.jd.com/index-10179489.html" class="">昌宁扶贫馆</a> </li>
+                      
+                      <li> <a href="http://219.216.96.139/ww/president/presidentMail.jsp" class="">校长信箱</a> </li>
+                      
+                      <li> <a href="http://www.czzx.neu.edu.cn/" class="">采购信息网</a> </li>
+                      
+                      <li> <a href="http://hqfwdt.neu.edu.cn/hqfw/" class="">后勤服务大厅</a> </li>
+                      
+                  </ul>
+                  
+              </li>
+              
+              <li> <a href="http://www.neu.edu.cn/wzdt/list.htm#resources" class="">校内资源</a>
+                  
+                  <ul style="display: none;">
+                      
+                      <li> <a href="http://xwb.neu.edu.cn" class="">校园信息化与网络服务门户</a> </li>
+                      
+                      <li> <a href="http://ipgw.neu.edu.cn/" class="">校园网IP控制网关</a> </li>
+                      
+                      <li> <a href="http://software.neu.edu.cn/" class="">正版软件平台</a> </li>
+                      
+                      <li> <a href="https://mail.neu.edu.cn/" class="">邮件服务[教工]</a> </li>
+                      
+                      <li> <a href="https://stu.neu.edu.cn/" class="">邮件服务[学生]</a> </li>
+                      
+                      <li> <a href="http://xwb.neu.edu.cn/2020/0130/c5481a164523/page.htm" class="">VPN服务</a> </li>
+                      
+                      <li> <a href="http://faculty.neu.edu.cn/" class="">教师主页</a> </li>
+                      
+                      <li> <a href="http://security.neu.edu.cn/" class="">网络安全服务平台</a> </li>
+                      
+                      <li> <a href="http://mirror.neu.edu.cn/" class="">开源软件镜像</a> </li>
+                      
+                      <li> <a href="http://ntp.neu.edu.cn/" class="">网络授时服务</a> </li>
+                      
+                      <li> <a href="http://www.neu.edu.cn/2019/0220/c175a237/page.htm" class="">校历</a> </li>
+                      
+                      <li> <a href="http://geoip.neu.edu.cn/" class="">IP地址归属查询</a> </li>
+                      
+                      <li> <a href="http://ecard.neu.edu.cn/" class="">校园卡服务中心</a> </li>
+                      
+                      <li> <a href="http://www.neu.edu.cn/2019/0225/c118a806/page.htm" class="">关于我们</a> </li>
+                      
+                  </ul>
+                  
+              </li>
+              
+              <li> <a href="http://english.neu.edu.cn/" class="">English Version</a>
+                  
+              </li>
+              
+          </ul>
+          
+      </div>
+      </nav>
+    <div id="" style="clear: both;"></div>
+      <header> 
+    <div frag="窗口111" portletmode="tpl2_jsonlist">
+                              <!-- JSON列表 -->
+<script language="JavaScript" class="" >
+    var w111imgJsons = [
+    
+        
+            {
+            "src": "/_upload/article/images/f3/11/4e88052c4e27ab6cd2be4488f0e2/02b8efe9-6eae-479e-91dd-3b93a09125ad.jpg",
+            "original": "/_upload/article/images/f3/11/4e88052c4e27ab6cd2be4488f0e2/02b8efe9-6eae-479e-91dd-3b93a09125ad.jpg",
+            "title": "3",
+            "url": "javascript:void(0);"
+            },
+        
+    
+        
+            {
+            "src": "/_upload/article/images/21/bb/b1d12d144ea0b1fc844b79131c70/6b2c1b61-8e9f-4c11-bf7c-fdf525e8627d.jpg",
+            "original": "/_upload/article/images/21/bb/b1d12d144ea0b1fc844b79131c70/6b2c1b61-8e9f-4c11-bf7c-fdf525e8627d.jpg",
+            "title": "6",
+            "url": "javascript:void(0);"
+            },
+        
+    
+        
+            {
+            "src": "/_upload/article/images/1d/c4/f9fd94754677b03d3d2a4085b54c/065a7b8e-c853-4610-a903-bf32879b3e6b.jpg",
+            "original": "/_upload/article/images/1d/c4/f9fd94754677b03d3d2a4085b54c/065a7b8e-c853-4610-a903-bf32879b3e6b.jpg",
+            "title": "10",
+            "url": "javascript:void(0);"
+            },
+        
+    
+        
+            {
+            "src": "/_upload/article/images/87/92/4780163d44b6afe746ec61b605be/f0034676-9dc7-4bb8-b72a-52048ae036f9.jpg",
+            "original": "/_upload/article/images/87/92/4780163d44b6afe746ec61b605be/f0034676-9dc7-4bb8-b72a-52048ae036f9.jpg",
+            "title": "9",
+            "url": "javascript:void(0);"
+            }
+        
+    
+    ];
+</script>
+
+                    
+      <div class="focus"></div>
+    </div>
+     </header>
+  </div>
+  <div class="main_frame_sub clearfix">
+    <div class="left_sub" frag="窗口21" portletmode="simpleColumnList">
+    
+        
+        <ul class="sub_navigator">
+            
+            <li class="left_child left_current_selected"> <a href="http://www.neu.edu.cn/2019/0125/c14a1/page.htm"><p>东大简介</p></a> </li>
+            
+            <li class="left_child left_current_"> <a href="http://www.neu.edu.cn/2019/0126/c15a2/page.htm"><p>张学良老校长</p></a> </li>
+            
+            <li class="left_child left_current_"> <a href="/3609/list.htm"><p>现任领导</p></a> </li>
+            
+            <li class="left_child left_current_"> <a href="/3610/list.htm"><p>院士风采</p></a> </li>
+            
+            <li class="left_child left_current_"> <a href="http://www.neu.edu.cn/constitution/"><p>东北大学章程</p></a> </li>
+            
+            <li class="left_child left_current_"> <a href="http://www.neu.edu.cn/2019/0126/c19a19/page.htm"><p>校园导游</p></a> </li>
+            
+            <li class="left_child left_current_"> <a href="http://www.neu.edu.cn/2019/0126/c20a20/page.htm"><p>校标校名校训校风校歌</p></a> </li>
+            
+            <li class="left_child left_current_"> <a href="http://neunews.neu.edu.cn/212/list.htm"><p>东大风景</p></a> </li>
+            
+        <li class="left_end"> <a href="http://www.neu.edu.cn/main.htm">
+          <p>返回首页</p>
+          </a> </li>
+        </ul>
+        
+    </div>
+    <div class="right_sub">
+      <div class="right_part">
+        <div class="right_title">快速入口</div>
+        <div class="right_content quick_links" frag="窗口22" portletmode="simpleNews">
+        
+          <ul>
+              
+            <li> <a href="http://neunews.neu.edu.cn" target="_blank">[东大新闻网]</a> </li>
+              
+            <li> <a href="http://zs.neu.edu.cn/" target="_blank">[本科招生信息网]</a> </li>
+              
+            <li> <a href="http://yz.neu.edu.cn" target="_blank">[研究生招生信息网]</a> </li>
+              
+            <li> <a href="http://pioneer.neu.edu.cn/" target="_blank">[先锋网]</a> </li>
+              
+            <li> <a href="http://alumni.neu.edu.cn/" target="_blank">[校友总会]</a> </li>
+              
+            <li> <a href="http://job.neu.edu.cn/" target="_blank">[东大就业网]</a> </li>
+              
+            <li> <a href="http://cxzx.neu.edu.cn/" target="_blank">[东大创新网]</a> </li>
+              
+            <li> <a href="http://219.216.96.139/ww/president/presidentMail.jsp" target="_blank">[校长信箱]</a> </li>
+              
+            <li> <a href="https://mail.neu.edu.cn" target="_blank">[邮件服务][教工]</a> </li>
+              
+            <li> <a href="https://stu.neu.edu.cn" target="_blank">[邮件服务][学生]</a> </li>
+              
+            <li> <a href="http://xwb.neu.edu.cn/" target="_blank">[校园网服务]</a> </li>
+              
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="detail_sub" frag="窗口23" portletmode="simpleArticleAttri">
+
+      <div class="detail_title">
+        <p>东北大学简介</p>
+      </div>
+      <div class="passage" style="padding:0">
+        <div class='wp_articlecontent'><p class="p_text_indent_2" style="text-align:justify;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;">东北大学始建于1923年4月26日，是一所具有爱国主义光荣传统的大学。1928年8月至1937年1月，著名爱国将领张学良将军兼任校长。1931年“九•一八”事变后，东北大学被迫流亡办学，1949年3月，在东北大学工学院和理学院（部分）的基础上成立沈阳工学院。1950年8月，定名为东北工学院，1993年3月，复名为东北大学，1997年1月原沈阳黄金学院并入东北大学，1998年9月划转为教育部直属高校。学校是国家首批“211工程”和“985工程”重点建设的高校，2017年9月，进入一流大学建设高校行列。在近百年的办学历程中，东北大学始终坚持与国家发展和民族复兴同向同行,形成了“自强不息、知行合一”校训精神和“实干、报国、创新、卓越”东大文化。历史上，东北大学师生曾是“一二·九”运动的主力和先锋，在建设时期，学校先后研发出国内第一台模拟电子计算机、第一台国产CT、第一块超级钢以及钒钛磁铁矿冶炼新技术、钢铁工业节能理论和技术、控轧控冷技术、混合智能优化控制技术等一大批高水平科研成果，兴办了第一个大学科学园，在技术创新、转移和产学研合作方面形成了自己的办学特色。</p><p class="p_text_indent_2" style="text-align:justify;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;">东北大学坐落在东北中心城市辽宁省沈阳市，在河北省秦皇岛市设有东北大学秦皇岛分校。学校占地总面积264.6万平方米，建筑面积183.7万平方米。学校现有教职工4490人，其中专任教师2857人。有中国科学院和中国工程院院士5人，海外院士4人。国家级人才项目入选者125人，国家级青年人才项目入选者57人，教育部新世纪优秀人才102人，国家自然科学基金创新群体4个。学校设有100多个研究机构，其中国家重点实验室，前沿科学中心、国家工程（技术）研究中心等国家级科技基地11个。设有国家级协同创新中心2个，省部共建协同创新中心1个，辽宁省协同创新中心4个。</p><p class="p_text_indent_2" style="text-align:justify;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;">东北大学是一所以工为主的多科性大学，涵盖哲学、经济学、法学、教育学、文学、理学、工学、管理学、艺术学等门类。工程学学科领域位列世界前1‰。设有104个本科专业，其中国家级特色专业15个，国家级一流本科专业建设点27个；现有24个一级学科博士点，121个二级学科博士点，36个一级学科硕士点，183个二级学科硕士点，5个工程博士专业学位类别和15个硕士专业学位类别；有19个博士后流动站；3个一级学科国家重点学科，4个二级学科国家重点学科，1个国家重点（培育）学科，共涵盖16个二级学科。学校以一流学科为核心，以“智能”赋能学科升级，实施4项重大引领计划，培育3项工程，“世界一流、国家一流、省一流、校一流”四级学科建设梯次协同共进，交叉融通可持续发展的学科生态体系更具活力。</p><p class="p_text_indent_2" style="text-align:justify;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;">东北大学现有本科生、硕士研究生、博士研究生49000余人。学校围绕立德树人的根本任务，在拔尖创新型人才培养、教学理念更新、教学方法研究、培养模式探索等方面取得了丰硕成果。 “十三五”以来，东北大学新增国家级教学成果奖3项，获批首批国家级一流本科课程39门，获批教育部新工科研究与实践项目7项。教育部新文科研究与改革实践项目3项，获首届全国教材建设奖（高等教育类）1部，获批教育部首批未来技术学院。学生获得创新创业竞赛国际大奖444项，国家级奖励2100项、优秀创新创业项目1575项，专利300项，共有94家学生创业企业落地。在2020年中国高等教育学会竞赛排行榜中，学生获奖总数排名全国第3，综合排名全国第6。学生生源质量、毕业生就业率及就业质量保持较高水平。</p><p class="p_text_indent_2" style="text-align:justify;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;">学校坚持服务国家战略和区域发展的科研方向，鼓励自由探索，推动协同创新，基础研究水平稳步提高，技术创新的竞争力不断增强。“十三五”以来，学校承担各类科技项目8000项，获省部级及以上科技奖励近300项，其中国家科技进步一等奖和国家自然科学二等奖等国家科技奖励14项，省部级一等奖67项；获得国家专利5109项，其中发明专利4584项；被三大检索收录的论文共29801篇。</p><p class="p_text_indent_2" style="text-align:justify;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;">学校在技术创新、技术转移和成果转化方面形成了独特的比较优势，探索出了一条政产学研用相结合的有效途径，实现了学科、人才、科研、产业良性互动发展。学校入选首批教育部高校科技成果转化试点示范基地及国家发改委全面创新改革试验百佳案例。学校坚持面向新一代信息技术、新材料、生命健康和交叉科技前沿等领域，推动大学科学园建设，为东北大学服务国民经济建设和东北老工业基地全面振兴奠定了新的重要基础。</p><p class="p_text_indent_2" style="text-align:justify;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;">学校面向世界，开放办学，先后与37个国家和地区的253所大学、研究机构建立了长期稳定的合作关系；建有6个“高等学校学科创新引智基地”、1个国际合作联合实验室、3个中外合作办学项目和1个中外合作办学机构，在白俄罗斯创建全球首个科技孔子学院，设有波兰研究中心、澳大利亚研究中心、歌德语言中心等跨文化学术交流平台。持续推进国际化师资队伍建设与国际化创新型人才培养体系建设，聘请海外知名专家讲学、学术交流、参与学科建设等，派出师生赴国（境）外执行国际会议、科研合作、联合培养、海外实习等各类交流访问任务。现有在校国际学生人数1097人。</p><p class="p_text_indent_2" style="text-align:justify;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;">学校始终坚守立德树人初心，为党育人、为国育才使命，着力培养担当民族复兴大任的时代新人，以坚强有力的党建工作引领一流大学建设，先后两次获评“全国先进基层党组织”，入选首批10所“全国党建工作示范高校”培育创建单位、首批10所“三全育人”综合改革试点高校、首批10所“一站式”学生社区综合管理模式建设试点高校和第二批教育融媒体建设试点单位，获批教育部课程思政教学研究示范中心。</p><p class="p_text_indent_2" style="text-align:justify;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;">面向未来，东北大学以习近平新时代中国特色社会主义思想为指导，继续遵循“教育英才”的办学宗旨，围绕办学目标和定位，坚定地走“创新型、特色化、开放式”发展道路，为建成“在中国新型工业化进程中起引领作用的‘中国特色、世界一流’大学”而不懈努力。</p><p class="p_text_indent_2" style="text-align:justify;font-size:16px;font-family:微软雅黑, &quot;microsoft yahei&quot;;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;（数据截止时间：2021年12月）</p></div>
+        <div class="pull-right"> </div>
+      </div>
+
+    </div>
+  </div>
+  <div id="foot">
+    <footer>
+        <div id="footer_link" >
+            <div frag="窗口15" portletmode="simpleNews">
+            
+                
+                <a class="line line1">|</a>
+                <a href="http://www.neu.edu.cn/constitution/" target="_blank">东北大学章程</a>
+                
+                <a class="line line2">|</a>
+                <a href="http://219.216.96.139/ww/president/presidentMail.jsp" target="_blank">校长直通车</a>
+                
+                <a class="line line3">|</a>
+                <a href="http://oa.neu.edu.cn" target="_blank">OA系统</a>
+                
+                <a class="line line4">|</a>
+                <a href="http://info.neu.edu.cn" target="_blank">信息公开</a>
+                
+                <a class="line line5">|</a>
+                <a href="https://eone.neu.edu.cn/" target="_blank">一网通办</a>
+                
+                <a class="line line6">|</a>
+                <a href="http://aao.neu.edu.cn" target="_blank">教务管理</a>
+                
+                <a class="line line7">|</a>
+                <a href="http://xsc.neu.edu.cn" target="_blank">本科生管理</a>
+                
+                <a class="line line8">|</a>
+                <a href="http://www.graduate.neu.edu.cn/yjsglxxxt_4309/list.htm" target="_blank">研究生管理</a>
+                
+                <a class="line line9">|</a>
+                <a href="http://kyy.neu.edu.cn/" target="_blank">科研管理</a>
+                
+                <a class="line line10">|</a>
+                <a href="http://rsc.neu.edu.cn/" target="_blank">人力资源管理</a>
+                
+                <a class="line line11">|</a>
+                <a href="http://jcc.neu.edu.cn/" target="_blank">财务管理</a>
+                
+                <a class="line line12">|</a>
+                <a href="http://zcc.neu.edu.cn" target="_blank">资产管理</a>
+                
+            </div>
+        </div>
+      <hr />
+      <div>
+        <div id="footer_left">
+          <p>校址：辽宁省沈阳市和平区文化路三巷11号 | 邮编：110819 | <a href="http://beian.miit.gov.cn" target="_blank">辽ICP备11009868号-3</a></p>
+          <p>Northeastern University 2015 | 设计制作：<a href="http://xcb.neu.edu.cn" target="_blank">党委宣传部</a>，技术运维：<a href="http://xwb.neu.edu.cn" target="_blank">信息化建设与网络安全办公室</a></p>
+        </div>
+        <div id="footer_right"> <a class="weixin" href="http://www.neu.edu.cn/gfwx/list.htm" target="_blank"> <span class="img"></span> <span class="text">东北大学官方微信 <br/>
+          neu-1923</span> </a> <a class="weibo" href="http://weibo.com/neu1923" target="_blank"> <span class="img"></span> <span class="text">东北大学官方微博 <br/>
+          neu1923</span> </a> </div>
+      </div>
+    </footer>
+    
+
+    <!-- End Piwik Code --> 
+    
+  </div>
+</div>
+<script src="/_upload/tpl/00/03/3/template3/extends/extends.js"></script>
+<script src="/_upload/tpl/00/03/3/template3/htmlRes/nav.js"></script>
+<script type="text/javascript" _ue_org_tagname="script">
+$(function(){
+    $(".focus").sudyfocus({
+      p:111,
+      zWidth:1300,
+      zHeight:230,
+	  response: true,
+	   href:false,
+    title: {
+        active: false, // 是否显示标题
+        isAutoWidth: false, // 标题背景自动宽度
+        href: false // 标题是否加文章链接
+    },
+	  pagination: false,
+      speed:700,
+	  navigation: false, // 是否显示按钮，上一张、下一张
+	  isNavHover: true // 导航按钮是否默认隐藏，鼠标经过时再显示
+    });
+  });
+  </script>
+</body>
+</html>
+
+ <img src="/_visitcount?siteId=4&type=3&articleId=1" style="display:none" width="0" height="0"></image>
